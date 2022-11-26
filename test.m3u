@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045899930407010314/20221125_235301.png" ,Guia de canais
+https://app.viloud.tv/hls/channel/a85819dc20ace56bef3c11ce9f08d114.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888546566836334/20221125_110437.png",Globo
+https://live-tvg-pe-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY2OTUxNjQyOSwiaWF0IjoxNjY5NDMwMDI5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvcGVuX3N0YXR1cyI6IkYiLCJvd25lciI6IjFlZDA0ZGE5LWE0YTQtNDAxMy1iNDdlLTU1ZWQ5Y2JiN2NjMiIsInBhdGgiOiIvbnUvZihiTWF4PTMzMDAwMDAsZHZyPTE4MCxpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiJiNjk5YjdjZC0zNjQ0LTQxOTgtNzE1Yi0zMjdkNTgyODU5ZWQifQ.LWR3QJOHn1Yi41j3cXKWb4mWDNk0ArGBZjT1b4Iddz8i7p-jKzMDZzleUa_552KsHWT5TIwKb3XR3b0PVF2S_stfU2f-OZadMG5h_6tHb_XBUKh3QLWO2DItmTjkWKbBEltuuKYXhHkOv90Id8GGLrUL8U8Lo9ArtULmO_oXmYGm3-sIQue7sG8ETeE6jwzB5802YM3dCZe908HT2l2dtiePCanrSStgpaD4cdlrCUIPPPHF-nebPSh829lOf0lmv4X4FiAfznFch3AjtstNxIc5GGZ_u_mTc845alpBSvzsam7zDXNrEVarbMNtmT6J2EMzUPnBKDMurz1TTLus_w/nu/f(bMax=3300000,dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=952960.m3u8?dvr_window_length=180
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045712737604477040/20221125_114705.png",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045907296137523200/20221126_003956.png",Band
+https://media.discordapp.net/attachments/1045712678162796554/1045902086111494164/InShot_20221126_001510548.mp4
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888558495432824/20221125_110614.png" group-title=,TV Brasil
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvOCSwfnD5ii8zLeYhDC4rZjId-OckE2gUMgfx8vIwlo)/dm/3/x82pp99/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1042064311469752320/1042079960053067927/InShot_20221115_111249418.jpg" group-title=,RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8#
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888570734411796/20221125_110746.png" group-title=,Canal Futura
+https://live-tvg-pe-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY2OTUxNjk0NiwiaWF0IjoxNjY5NDMwNTQ2LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvcGVuX3N0YXR1cyI6IkYiLCJvd25lciI6IjFlZDA0ZGE5LWE0YTQtNDAxMy1iNDdlLTU1ZWQ5Y2JiN2NjMiIsInBhdGgiOiIvbnUvZihiTWF4PTMzMDAwMDAsaT0yKS9mdXR1cmEyNGhhL3BsYXlsaXN0Lm0zdTgiLCJ1c2VyU2Vzc2lvbktleSI6IjFkYWQxNDU0LTU2ZDQtZjdhMy0yNTc0LTA3YTFiNDFiMzViYSJ9.svE_MCwk6TcHHoOdIvPpeVdO-G99YONPiVci_gXY14ZoTQJNa0G9i7tIHpVlNtfFP1nCJidqOETohHmAC7GA2cxkiUCbCOm2hdcjbbwO5PIozKEZiacF9rQ3osp7cYP8isvlfRxDVTQ3YTtTTVA8HfXrbxRMRWzcGB60o-BHTsAJ36oEDfUQNtaO6w94fMmpVFyZMnBuAkGaVv48OKPSBJ_4gSG-AFQZooEHEs4LQllWOvrG_lukw4RwU7G-AFIhRFlDeObqbvFJNOwvFO2PBhRUYW-d8oH2AEuk70QiXl90uMn9txkdRSsutBhzM7nmS5mUNBoW05qT_yiMsKqzUw/nu/f(bMax=3300000,i=2)/futura24ha/futura24ha-audio_1=96000-video=1320960.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045907279305777173/20221126_004024.png" group-title=,TV Cultura
+https://media.discordapp.net/attachments/1045712678162796554/1045902086111494164/InShot_20221126_001510548.mp4
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888583619313764/20221125_110902.png" group-title=,Geekdot
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888597066264596/20221125_111010.png" group-title=,Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888624752861214/20221125_111604.png" group-title=,Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045888612375470090/20221125_111214.png" group-title=,JP News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045713874873241610/20221125_115301.png" , EuroNews Português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045907231444582460/20221126_004110.png",KpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.discordapp.net/attachments/1045712678162796554/1045893942866092062/20221125_111930.png" group-title=,PlayTV
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
